@@ -1,6 +1,3 @@
-# Rules and terminology are based on https://en.wikipedia.org/wiki/Blackjack#Rules_of_play_at_casinos
-# Where rules may differ between casinos, only one option was chosen
-
 import random, time, datetime
 
 class Person:
